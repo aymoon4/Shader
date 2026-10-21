@@ -1,11 +1,6 @@
 > [!NOTE]
-Kytyps5-Hints
-These are shaders that I created for my own use and made available for anyone to use. They are a combination of my work and that of others, which I am sharing together. 
-They are intended for personal use.
+These shaders were created primarily for my own use, but I’m sharing them publicly so that others can benefit from them as well. The collection combines my own work with shaders and contributions from other users. While made for my personal use, they are available for others to use too.
 
-Drag and drop the files into the '_PipelineCache/static' folder.
-
-Tested on [chenxiao07's fork of Kytyps5](https://github.com/chenxiao07/KytyPS5).
 
 ##
 
